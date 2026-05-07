@@ -79,7 +79,7 @@ Saat ini saya sedang fokus belajar dan mengembangkan project menggunakan:
 
 ## 🌎 Connect With Me
 
-* GitHub: [https://github.com/yourusername](https://github.com/Zenkysetiawan)
+* GitHub: (https://github.com/Zenkysetiawan)
 * Instagram: _alzennn
 * Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
 
